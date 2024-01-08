@@ -1,2 +1,2 @@
-a=["makine","motorr","biciklet"]
+let a=["makine","motorr","biciklet"]
 console.log(a)
